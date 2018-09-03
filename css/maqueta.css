@@ -1,0 +1,9 @@
+#cabecera {
+	margin: 0 auto;
+	width: 70%;
+	height: 80px;
+	border: solid red;
+	font-family: 'Abril Fatface', cursive;
+	text-align: center;
+	font-size: 70px;
+}

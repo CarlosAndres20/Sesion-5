@@ -1,0 +1,27 @@
+.izquierda {
+	float: left;
+	background-color:skyblue ;
+	width:20%;
+	height: 1200px;
+}
+.centro {
+	width:60%;
+	height: 1200px;
+	float: left ;
+	background: darksalmon;
+}
+.derecha{
+	float: left;
+	width:20%; 
+	height: 1200px;
+	background: darkorange;
+}
+.caja {
+	padding: 10px;
+	width: 80%;
+	margin: 0 auto;
+	background: red;
+}
+.clear {
+	clear: both;
+}
